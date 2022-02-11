@@ -4,8 +4,9 @@
 
 ## CSS
 
-- 
+- [Gradient Generator](https://www.joshwcomeau.com/gradient-generator/)
+- [Shadow Palette](https://www.joshwcomeau.com/shadow-palette/)
 
 ## Theory
 
-- [Le catalogue des patrons de conception](https://refactoring.guru/fr/design-patterns)
+- [Design Patern](https://refactoring.guru/fr/design-patterns)
