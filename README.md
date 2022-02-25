@@ -7,6 +7,7 @@
 
 - [Gradient Generator](https://www.joshwcomeau.com/gradient-generator/)
 - [Shadow Palette](https://www.joshwcomeau.com/shadow-palette/)
+- [Can I use ? Css properties browser support tables](https://caniuse.com/)
 
 ## Theory
 
