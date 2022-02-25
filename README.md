@@ -17,6 +17,6 @@
 
 - [Transform docker command to docker-compose file](https://www.composerize.com/)
 
-## Tutorizld
+## Tutorials
 
 - [Site du Zéro - French static old tuts](http://sdz.tdct.org/)
