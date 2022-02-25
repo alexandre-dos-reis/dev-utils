@@ -18,4 +18,4 @@
 
 ## Tutorizld
 
-- [Site du Zéro - Static old Tuts](http://sdz.tdct.org/)
+- [Site du Zéro - French static old tuts](http://sdz.tdct.org/)
