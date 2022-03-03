@@ -2,6 +2,7 @@
 
 - [Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref)
 - [W3C Validator](https://validator.w3.org/)
+- [SVG repo](https://www.svgrepo.com/)
 
 ## CSS
 
