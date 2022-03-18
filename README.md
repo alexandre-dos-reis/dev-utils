@@ -14,10 +14,6 @@
 
 - [Design Patern](https://refactoring.guru/fr/design-patterns)
 
-## Docker
-
-- [Transform docker command to docker-compose file](https://www.composerize.com/)
-
 ## Tutorials
 
 - [Site du Zéro - French static old tuts](http://sdz.tdct.org/)
